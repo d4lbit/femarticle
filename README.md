@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://d4lbit.github.io/femarticle/)
+- Live Site URL: [Live site URL here](https://d4lbit.github.io/femarticle/)
 
 ## My process
 
