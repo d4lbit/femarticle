@@ -37,7 +37,7 @@ Users should be able to:
 
 ## Author
 
-- GitHub - [Iole](https://www.github.com/d4lbit)
+- GitHub - [@d4lbit](https://www.github.com/d4lbit)
 - Frontend Mentor - [@d4lbit](https://www.frontendmentor.io/profile/d4lbit)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
