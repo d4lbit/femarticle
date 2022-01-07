@@ -119,12 +119,8 @@ p, .date {
     width: 40px;
 }
 
- footer {
-        width: 100vw;
-}
-
-.attribution {
-    width: 100vw;
+footer, .attribution {
+    width: 100vw
 }
 
 .attribution { 
