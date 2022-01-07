@@ -216,4 +216,7 @@ p, .date {
         display: block;
         position: fixed;
     }
+    
+    footer, .attribution {
+        width: 100vw;
  }
