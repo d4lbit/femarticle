@@ -119,8 +119,12 @@ p, .date {
     width: 40px;
 }
 
- footer, .attribution {
+ footer {
         width: 100vw;
+}
+
+.attribution {
+    width: 100vw;
 }
 
 .attribution { 
@@ -220,3 +224,11 @@ p, .date {
         display: block;
         position: fixed;
     }
+    
+     footer {
+        width: 100vw;
+}
+
+     .attribution {
+        width: 100vw;
+}
